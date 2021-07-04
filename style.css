@@ -51,12 +51,12 @@ section {
     display:flex;
     flex-direction: column;
     align-items: center;
-    margin: 10em 10em;
+    margin: 2em 5em;
 
 }
 
 .google-img{
-    margin: 40px;
+    margin:50px;
 }
 
 .search-bar {
